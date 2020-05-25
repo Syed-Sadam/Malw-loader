@@ -1,7 +1,9 @@
 # Malw-loader
 THis program is purely for educational purposes and I bear no responsibility for any misuse of Malw-loader. 
+
+How it works:
 Malw-loader is written in Python. It starts with directory listing, and then auto-downloads and executes malware in the target computer.
-It is a disk-based downloader.
+However, it is a disk-based downloader.
 
 Usage:
 You need to change the defualtdownload link from "https://github.com/pbatard/rufus/releases/download/v3.9/rufus-3.9p.exe" to your own link.
