@@ -1,5 +1,5 @@
 # Malw-loader
-THis program is purely for educational purposes and I bear no responsibility for any misuse of Malw-loader. 
+THis program is coded purely for educational purposes and I bear no responsibility for any misuse of Malw-loader. 
 
 How it works:
 Malw-loader is written in Python. It starts with directory listing, and then auto-downloads and executes malware in the target computer.
