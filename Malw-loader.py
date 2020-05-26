@@ -13,7 +13,7 @@ try:
         file_loc = location
     time.sleep(5)
     subprocess.call(["C:\\rufus-3.9p.exe"], shell=True)
-except NotADirectoryError and FileNotFoundError and PermissionError:
+except PermissionError:
     pass
 
     try:
